@@ -4,7 +4,7 @@
 
 #### 前言
 
-Hndxing 是一个基于 [zxing](https://github.com/zxing/zxing) 源码的基础上面，抽离其出 Android 端的扫码功能，而进一步封装而成的一个开源库 。
+Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础上面，抽离其出 Android 端的扫码功能，而进一步封装而成的一个开源库 。
 
 #### 特性
 
@@ -13,7 +13,7 @@ Hndxing 是一个基于 [zxing](https://github.com/zxing/zxing) 源码的基础�
 
 #### 效果
 
-> 原生的 Hndroid 效果
+> 原生的 Hndroid 效果(因为虚拟机不具有摄像头，所以显示的是黑灰格)
 
 ![Hndxing 的原生效果](http://ouit3bg5b.bkt.clouddn.com/Peek%202018-02-09%2016-17.gif) 
 
@@ -48,7 +48,7 @@ Hndxing 是一个基于 [zxing](https://github.com/zxing/zxing) 源码的基础�
 
 ```gradle
 	dependencies {
-	        compile 'com.github.Hndroid:Hndxing:v1.0.1'
+	        compile 'com.github.Hndroid:Hndxing:1.0.0'
 	}
 
 ```
@@ -69,7 +69,7 @@ Hndxing 是一个基于 [zxing](https://github.com/zxing/zxing) 源码的基础�
 	<dependency>
 	    <groupId>com.github.Hndroid</groupId>
 	    <artifactId>Hndxing</artifactId>
-	    <version>v1.0.0</version>
+	    <version>1.0.0</version>
 	</dependency>
 
 ```
