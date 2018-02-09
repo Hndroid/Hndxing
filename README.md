@@ -48,7 +48,7 @@ Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础�
 
 ```gradle
 	dependencies {
-	        compile 'com.github.Hndroid:Hndxing:1.0.0'
+	        compile 'com.github.Hndroid:Hndxing:1.0.1'
 	}
 
 ```
@@ -69,7 +69,7 @@ Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础�
 	<dependency>
 	    <groupId>com.github.Hndroid</groupId>
 	    <artifactId>Hndxing</artifactId>
-	    <version>1.0.0</version>
+	    <version>1.0.1</version>
 	</dependency>
 
 ```
