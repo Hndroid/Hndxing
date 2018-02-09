@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_front_light_mode"
+        android:title="@string/front_light_mode"
+        android:orderInCategory="2"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menu_image"
+        android:title="@string/add_image"
+        android:orderInCategory="3"
+        app:showAsAction="withText" />
+</menu>
