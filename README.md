@@ -19,7 +19,7 @@ Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础�
 
 > 由开发者自定义后的 Hndroid 效果
 
-![由开发者自定义后的 Hndroid 效果](http://ouit3bg5b.bkt.clouddn.com/Peek%202018-02-10%2013-49.gif)
+![由开发者自定义后的 Hndroid 效果](http://ouit3bg5b.bkt.clouddn.com/Peek%202018-02-10%2014-12.gif)
 
 #### 使用
 
