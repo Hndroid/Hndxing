@@ -15,11 +15,11 @@ Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础�
 
 > 原生的 Hndroid 效果(因为虚拟机不具有摄像头，所以显示的是黑灰格)
 
-![Hndxing 的原生效果](http://ouit3bg5b.bkt.clouddn.com/Peek%202018-02-10%2013-59.gif) 
+![Hndxing 的原生效果](http://baihonghua.cn/Peek%202018-02-10%2013-59.gif) 
 
 > 由开发者自定义后的 Hndroid 效果
 
-![由开发者自定义后的 Hndroid 效果](http://ouit3bg5b.bkt.clouddn.com/Peek%202018-02-10%2014-15.gif)
+![由开发者自定义后的 Hndroid 效果](http://baihonghua.cn/Peek%202018-02-10%2014-15.gif)
 
 #### 使用
 
@@ -167,27 +167,3 @@ Hndxing 是一个基于 [ZXing](https://github.com/zxing/zxing) 源码的基础�
 
 - 如果你感兴趣，欢迎 Fork 这个项目，让我们一起更好地维护这个开源项目;
 - 如果你在开发的过程中遇到问题，欢迎 Issues;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
